@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     background: linear-gradient(45deg, rgba(183, 204, 246, 0.7), rgba(7,43,127,0.67));
+}
+#card{
+    background: linear-gradient(35deg, #00feba, #5b548a);
+}
