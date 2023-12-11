@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-     background: linear-gradient(45deg, rgba(183, 204, 246, 0.7), rgba(7,43,127,0.67));
+     background: linear-gradient(45deg, rgba(3, 42, 119, 0.7), rgba(3, 43, 138, 0.67));
 }
 #card{
     background: linear-gradient(35deg, #00feba, #5b548a);
